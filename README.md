@@ -1,2 +1,2 @@
-# SVG To PDF Converter Beta Chrome
- SVG To PDF Converter with Google Chrome
+# SVG To PDF Converter Beta
+ SVG To PDF Converter using Google Chrome
